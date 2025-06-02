@@ -64,6 +64,31 @@ footer{
     letter-spacing: 2px;
 }
 
+form{
+    background-color: #16161a;
+    color: white;
+}
+
+
+
+button{
+    background-color: white;
+}
+
+
+
+textarea{
+    
+    background-color: white;
+    margin: 2%;
+
+
+
+}
+
+input{
+    background-color: white;
+}
 
 h1{
     
@@ -73,7 +98,8 @@ h1{
   font-weight: <weight>;
   font-style: normal;
   font-variation-settings:
-    "wdth" 100;
+  "wdth" 100;
+  
 }
     
 
